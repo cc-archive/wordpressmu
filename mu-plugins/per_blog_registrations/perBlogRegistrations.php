@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WPMU Per-Blog Registrations
-Plugin URI: http://cctools.svn.sourceforge.net/viewvc/cctools/ccwordpress/trunk/mu-plugins/per_blog_registrations/
+Plugin URI: http://code.creativecommons.org/viewsvn/wordpressmu/trunk/mu-plugins/per_blog_registrations/
 Description: Allows user of Wordpress MU to register with sub-blogs, not just the default blog.  It also allows you to disallow users to create new blogs, only allowing them to register with an existing blog.
 Author: Nathan Kinkade
 Author URI: http://creativecommons.org/
